@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since January 2023<br>📚 I'm currently learning advanced Java concepts, Spring Boot, and British English.<br>🎯Work on innovative backend projects and constantly improve my skills as a developer.<br>📖 I’m a bookworm who loves diving into fantasy and roamnce stories when I'm not coding.<br>⚽ I'm a huge football fan, and I grew up watching Corinthians.</p>
+<p align="left">✨ Creating bugs since January 2023<br>📚 I'm currently learning advanced Java concepts, Spring Boot, and English.<br>🎯Work on innovative backend projects and constantly improve my skills as a developer.<br>📖 I’m a bookworm who loves diving into fantasy and roamnce stories when I'm not coding.<br>⚽ I'm a huge football fan, and I grew up watching Corinthians.</p>
 
 ###
 
