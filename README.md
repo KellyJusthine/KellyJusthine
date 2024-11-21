@@ -1,12 +1,20 @@
-<h2 align="left">About Me</h2>
+<h1 align="left">Kelly Justhine</h1>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">I'm Kelly Justhine, and I'm a technology enthusiast and junior backend developer from Brazil.</p>
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since January 2023<br>📚 I'm currently learning advanced Java concepts, Spring Boot, and British English.<br>🎯Work on innovative backend projects and constantly improve my skills as a developer.<br>📖 I’m a bookworm who loves diving into fantasy and roamnce stories when I'm not coding.<br>⚽ I'm a huge football fan, and I grew up watching Corinthians.</p>
+
+###
+
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -20,25 +28,23 @@
 
 ###
 
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KellyJusthine&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="146" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KellyJusthine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="146" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KellyJusthine&radius=16&theme=modern-lilac&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 <h2 align="left">Social Media</h2>
 
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/kelly-justhine-897377203/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/kellyjusthinee/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/KellyJusthine/KellyJusthine/output/snake.svg" alt="Snake animation" />
 
 ###
