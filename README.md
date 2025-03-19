@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Kelly Justhine, and I'm a technology enthusiast and junior backend developer from Brazil.</p>
+<p align="left">I'm Kelly Justhine, and I'm a technology enthusiast and backend developer from Brazil.</p>
 
 ###
 
